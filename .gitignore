@@ -1,2 +1,3 @@
 .*.swp
 *.py[co]
+/{{ project_name }}/settings_local.py
